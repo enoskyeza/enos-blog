@@ -42,3 +42,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### Description
 The blog is a development journal, that is to help me evaluate my effort each passing day. And in this I hope to be able to 
 document each and every progress I do everyday. It is also and accountability measure of sorts.
+
+### What I do
+I am to document in detail, every effort I make in a day that I envision is going to lead to future self development 
+as a person and financially.
+
