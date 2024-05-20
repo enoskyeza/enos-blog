@@ -47,3 +47,8 @@ document each and every progress I do everyday. It is also and accountability me
 I am to document in detail, every effort I make in a day that I envision is going to lead to future self development 
 as a person and financially.
 
+### What question am I answering?
+I am to be answering the question, "What have you done today to see that you have more money in the future or a future"
+you desire.
+
+### How am I answering it?
