@@ -52,3 +52,7 @@ I am to be answering the question, "What have you done today to see that you hav
 you desire.
 
 ### How am I answering it?
+I am to do something productive every single dayand I am to document every detail of how I did it and how it is supposed 
+or how i envision it will impact my life. 
+
+### What do I hope to gain from this?
