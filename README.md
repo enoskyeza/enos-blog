@@ -56,3 +56,7 @@ I am to do something productive every single dayand I am to document every detai
 or how i envision it will impact my life. 
 
 ### What do I hope to gain from this?
+I believe in my sould that am on a path to winning, and am creating a formular for the coming generation and whoever 
+else I can impact with my journey
+
+### What is the time frame?
