@@ -117,3 +117,4 @@ Frontend: React (JavaScript)
 Styling: CSS and Bootstrap
 Database: SQLite (for development) and Postgres (for production)
 Deployment: Python anywhere and netlify(frontend)
+
