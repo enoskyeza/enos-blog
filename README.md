@@ -104,8 +104,16 @@ To evolve the blog into a comprehensive resource that not only tracks personal p
 
 ## Project Execution
 
-Define Requirements:
+1. Define Requirements:
 
 What features do you want your blog to have?
 How do you want the blog to look and feel?
 What is the target audience for your blog?
+
+2. Technical Stack:
+
+Backend: Django (Python)
+Frontend: React (JavaScript)
+Styling: CSS and Bootstrap
+Database: SQLite (for development) and Postgres (for production)
+Deployment: Python anywhere and netlify(frontend)
